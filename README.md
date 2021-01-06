@@ -1,5 +1,5 @@
 # Projeto-Glass
-Projeto realizado no Curso em Vídeo - Curso de MySQL
+Projeto realizado no Curso em Vídeo - Curso de MySQL.
 
 ## Descrição do curso:
 **Banco de Dados** é um componente que reúne informações de maneira organizada, consistente, protegida e acessível em tempo hábil por pessoas especializadas. É fundamental para a área de tecnologia o conhecimento dessa ferramenta tão importante, pois ela é usado por todo tipo de empresa com objetivo de organizar e trabalhar suas informações.
